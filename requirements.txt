@@ -1,0 +1,10 @@
+PyQt4
+numpy
+scipy
+librosa
+pymongo
+pyaudio
+wave
+mutagen
+PIL
+bson

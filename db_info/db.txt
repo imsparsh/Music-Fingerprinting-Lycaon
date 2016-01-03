@@ -1,0 +1,8 @@
+# Instructions for database in MongoDB
+
+-install MongoDB
+-configure the host and port as 'localhost' and '27017' respectively, otherwise change them in the scripts
+-install pymongo, and bson python module
+-start mongod server
+-make database with name 'lycaon_db' using query: 'use lycaon_db'
+-start python program for fingerprinting the songs, and you might know the rest.
