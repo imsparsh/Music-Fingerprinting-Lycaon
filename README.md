@@ -4,10 +4,10 @@ Music Fingerprinting | Lycaon
 Music Fingerprinting in python that not only recognizes the exact song but also the similar ones using Locality Sensitive Hashing.
 
 **Technologies Used:**
--python # back end programming with GUI
--MongoDB # database
+- python 
+- MongoDB
 
-*This is a complete audio fingerprint project with GUI based on PyQT4, and MongoDB database.
+This is a complete audio fingerprint project with GUI based on PyQT4, and MongoDB database.
 
 - **fingerprint.py**
 GUI module used for Fingerprinting the songs to build the database.
@@ -51,5 +51,5 @@ python fingerprint.py # select songs and fingerprint.
 python Lycaon.py # provide audio and search your song.
 ```
 
-* This program is build and configured on windows 8 platform, for others like linux, MacOS, it would need some changes in the modules used, help it yourself.
+This program is build and configured on windows 8 platform, for others like linux, MacOS, it would need some changes in the modules used, help it yourself.
 Good Luck.
